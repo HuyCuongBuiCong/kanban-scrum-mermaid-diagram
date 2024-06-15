@@ -10,21 +10,18 @@ mindmap
     root --> A["What is Scrum?"]
         A --> A1["Agile framework for managing complex projects"]
         A --> A2["Iterative cycles called sprints"]
-        A2 --> A2a["Typically lasting 2-4 weeks"]
-        A2 --> A2b["Teams work on prioritized tasks"]
-        
-        root --> B["Key Events"]
+            A2 --> A2a["Typically lasting 2-4 weeks"]
+            A2 --> A2b["Teams work on prioritized tasks"]
+    root --> B["Key Events"]
         B --> B1["Sprint Planning"]
         B --> B2["Daily Scrum"]
         B --> B3["Sprint Review"]
         B --> B4["Sprint Retrospective"]
-        
-        root --> C["Emphasizes"]
+    root --> C["Emphasizes"]
         C --> C1["Collaboration"]
         C --> C2["Flexibility"]
         C --> C3["Continuous improvement"]
-        
-        root --> D["Goal"]
+    root --> D["Goal"]
         D --> D1["Deliver high-quality results"]
 
 ```
