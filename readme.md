@@ -1,7 +1,7 @@
 # Understanding Kanban and Scrum with Mermaid Diagrams for Beginners 
 In software development, clarity and efficiency are crucial. For a long time, I’ve found that using Mermaid diagrams is the best way to grasp complex processes quickly. Diagrams make understanding methodologies like Kanban and Scrum more intuitive. By sharing this knowledge through easy-to-understand visuals, I hope to simplify learning, enhance team communication, and help developers focus on delivering high-quality software.
 
-Full article can be found [here](https://kelvinbz.medium.com/understanding-kanban-and-scrum-with-mermaid-diagrams-for-beginners-b4d62aca3699)
+Full article can be found [https://kelvinbz.medium.com/understanding-kanban-and-scrum-with-mermaid-diagrams-for-beginners-b4d62aca3699](https://kelvinbz.medium.com/understanding-kanban-and-scrum-with-mermaid-diagrams-for-beginners-b4d62aca3699)
 ## Scrum
 
 ### What is Scrum
